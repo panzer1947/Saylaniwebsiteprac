@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+}
+.hed{
+    margin:0px;
+    background-color: #316dc3;
+    height: 10%;
+    
+    
+  
+    
+}
+ul.he{
+    
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    padding: 2px;
+   
+}
+li.he{
+    margin: 3px 0px 1px 0px;
+    padding:5px;
+   color: white;
+}
+li.he:hover{
+    background-color: blue;
+}
+
+.sp{
+   color: white;
+   font-size: 15px;
+   padding: 10px;
+   margin: 1px 0px 2px 0px;
+}
+
+.bu{
+    font-size: 12px;
+    text-align: center;
+    padding: 5px;
+    margin: 3px 0px 2px 0px;
+   
+}
+button{
+    border: 1px solid green;
+    padding: 5px;
+    color: green;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    
+}
+li.nap{
+    background-color: #316dc3;
+    border-radius: 15px 50px;
+    
+    
+}
+
+.navbar-nav .nav-item:hover .nav-link{
+    color: white;
+    background-color: #316dc3;
+    border-radius: 20px 60px;
+}
+#test{
+    padding: 0px;
+}
+.mid{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    padding: 50px;
+}
+.ko{
+    padding:40px;
+    box-shadow: 10px 10px 5px grey;
+    background-color: white;
+    margin-left: 1px;
+}
+.to{
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+.la{
+    padding: 50px;
+    
+    
+    
+}
+ul.oye{
+   list-style-type: none;
+   display: flex;
+    flex-direction: row;
+}
+li.oye{
+    
+    margin-right: 10px;
+    padding:8px;
+    color: white;
+    background-color: blue;
+    border-radius: 100%;
+    text-align: center;
+
+}
+.hedss
+{
+    margin:0px;
+    padding: 5px;
+    background-color: #316dc3;
+    color: white;
+}
+
